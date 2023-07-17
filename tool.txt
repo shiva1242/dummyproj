@@ -1,2 +1,0 @@
-eclipse
-visual studio
